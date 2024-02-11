@@ -1,0 +1,676 @@
+[22-May-2019 13:59:29 Asia/Dhaka] PHP Warning:  require_once(/home/baitsbdc/public_html/public/index.php): failed to open stream: No such file or directory in /home/baitsbdc/public_html/server.php on line 21
+[22-May-2019 13:59:29 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required '/home/baitsbdc/public_html/public/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/baitsbdc/public_html/server.php on line 21
+[16-Jun-2019 06:27:53 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/baitsbdc/public_html/app/Http/Controllers/CareearController.php on line 9
+[16-Jun-2019 06:27:58 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/baitsbdc/public_html/app/Http/Controllers/CareearController.php on line 9
+[16-Jun-2019 06:28:06 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/baitsbdc/public_html/app/Http/Controllers/CareearController.php on line 9
+[16-Jun-2019 06:28:54 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/baitsbdc/public_html/app/Http/Controllers/CareearController.php on line 7
+[27-Jun-2019 13:51:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:02:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:11:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:12:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:12:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:21:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:30:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:31:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:35:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:41:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:43:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:46:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:47:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 14:55:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:18:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:22:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:26:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:26:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:32:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:51:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:51:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:51:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:52:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:54:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 15:54:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:06:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:15:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:16:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:17:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:17:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:17:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:18:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:19:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:28:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:38:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:41:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:41:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:47:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 16:54:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 17:03:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 17:09:14 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 17:46:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 17:57:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:07:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:10:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:27:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:33:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:33:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:39:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:42:14 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:57:14 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 18:57:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:08:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:13:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:26:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:32:14 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:37:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:39:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:39:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:20 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:20 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:23 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:42:31 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:44:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:44:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:44:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:46:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:49:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:59:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:59:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 19:59:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:06:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:16:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:19:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:23:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:36:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:44:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:46:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:47:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 20:58:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:02:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:09:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:12:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:19:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:20:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:27:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:30:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:31:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:43:23 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:43:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:43:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 21:43:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 22:01:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 22:14:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 22:34:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 22:47:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:01:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:11:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:20:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:22:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:24:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:26:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:38:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:59:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:59:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:59:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[27-Jun-2019 23:59:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:03:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:05:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:05:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:31:31 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:31:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:35:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:39:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:40:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:41:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 00:59:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:05:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:23:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:23:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:35:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:37:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 01:49:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:03:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:04:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:12:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:13:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:51:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:51:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:58:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 02:58:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:26:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:32:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:33:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:33:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:34:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:38:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:38:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:51:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:51:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:51:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:51:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:49 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 03:56:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 04:45:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:17:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:27:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:38:51 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:46:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:46:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:47:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:47:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:47:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:48:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:48:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:48:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:49:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:49:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:49:44 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:50:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:50:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:50:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:51:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:51:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:51:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:51:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:52:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 05:53:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 06:03:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 06:11:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 06:59:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 07:05:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 07:05:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 07:18:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:31 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:33 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:15:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:25:14 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:38:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:59:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:59:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 08:59:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:02:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:20:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:27:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:27:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:38:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:49:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:49:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:50:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:51:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:51:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:53:21 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:54:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 09:54:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:05:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:16:31 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:19:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:19:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:19:20 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:32:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:39:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:39:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:50:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:50:37 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:56:23 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 10:56:23 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:02:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:02:11 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:35:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:35:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:43:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:43:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 11:57:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 12:13:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 12:19:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 12:19:06 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 12:33:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 13:58:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 13:59:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:13:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:17:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:30:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:32:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:32:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:35:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:36:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:36:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 14:55:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:06:28 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:06:29 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:06:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:29:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:36:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:48:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:48:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:48:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 15:59:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:34:39 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:50 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:37:55 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:38:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:38:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:41:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 16:50:02 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 17:09:52 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 17:48:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:20:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:20:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:21:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:21:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:32:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:32:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:41:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 18:51:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 19:36:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:02:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:02:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:10:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:10:43 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:30:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 20:53:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 21:05:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 21:05:53 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 21:14:46 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 21:15:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 22:11:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 22:11:41 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 22:18:35 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 22:33:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 22:45:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[28-Jun-2019 23:12:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:11:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:17:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:26:17 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:37:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:44:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:50:09 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:56:31 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 00:59:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 01:14:19 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 01:15:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 01:29:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 02:17:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 02:17:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 02:58:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:06:16 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:23:07 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:27:18 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:27:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:28:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:30:42 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:37:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:45:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:45:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:45:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:46:00 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:46:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:46:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:46:59 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:50:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:50:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:51:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:52:05 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:52:08 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:52:10 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:54:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:54:13 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:54:58 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:55:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:56:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 03:58:45 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:00:03 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:01:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:01:57 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:14:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:19:20 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:22:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 04:28:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 05:27:27 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:16:34 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:16:36 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:16:38 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:16:40 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:17:47 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[29-Jun-2019 06:17:48 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/baitsbdc/public_html/index.php on line 52
+[03-Jul-2019 17:51:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[06-Jul-2019 06:47:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[07-Jul-2019 10:14:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[07-Jul-2019 20:46:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[07-Jul-2019 22:10:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[10-Jul-2019 18:39:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[10-Jul-2019 23:01:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[12-Jul-2019 03:36:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[16-Jul-2019 03:39:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[18-Jul-2019 08:55:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[18-Jul-2019 09:46:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[18-Jul-2019 18:34:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[18-Jul-2019 20:01:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[18-Jul-2019 21:01:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[18-Jul-2019 22:26:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[18-Jul-2019 22:32:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[18-Jul-2019 22:56:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[19-Jul-2019 00:39:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[21-Jul-2019 03:20:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[22-Jul-2019 19:32:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[22-Jul-2019 19:35:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[22-Jul-2019 19:38:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[22-Jul-2019 19:41:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[22-Jul-2019 19:44:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[23-Jul-2019 12:35:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[27-Jul-2019 14:46:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[28-Jul-2019 20:30:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[01-Aug-2019 02:27:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[10-Aug-2019 06:31:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[10-Aug-2019 08:49:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[13-Aug-2019 01:20:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[16-Aug-2019 06:10:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 14:50:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 14:50:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 16:09:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 16:09:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 17:35:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 17:36:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 18:07:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[20-Aug-2019 18:08:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[27-Aug-2019 12:02:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[29-Aug-2019 22:00:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[30-Aug-2019 03:33:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[30-Aug-2019 04:13:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[30-Aug-2019 04:54:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[31-Aug-2019 04:22:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[31-Aug-2019 12:06:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[05-Sep-2019 15:37:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[12-Sep-2019 07:12:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[14-Sep-2019 11:46:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[15-Sep-2019 08:39:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[16-Sep-2019 11:39:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[23-Sep-2019 10:00:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[29-Sep-2019 09:00:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[30-Sep-2019 08:18:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[30-Sep-2019 13:38:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[30-Sep-2019 20:08:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[01-Oct-2019 03:15:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[03-Oct-2019 11:48:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[03-Oct-2019 23:22:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[03-Oct-2019 23:22:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[04-Oct-2019 10:44:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[05-Oct-2019 18:05:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[06-Oct-2019 01:10:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[06-Oct-2019 04:31:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[06-Oct-2019 12:24:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4926
+[07-Oct-2019 14:18:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[08-Oct-2019 21:35:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1101824 bytes) in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[13-Oct-2019 04:01:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[01-Nov-2019 21:08:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[12-Nov-2019 16:16:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[19-Nov-2019 06:01:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[20-Nov-2019 03:21:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[20-Nov-2019 07:20:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[20-Nov-2019 12:50:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[20-Nov-2019 21:35:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[20-Nov-2019 23:48:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[21-Nov-2019 05:15:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[23-Nov-2019 08:24:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[24-Nov-2019 18:05:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[27-Nov-2019 09:08:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[29-Nov-2019 13:41:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[01-Dec-2019 16:51:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[04-Dec-2019 02:53:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[04-Dec-2019 02:54:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[04-Dec-2019 04:28:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[06-Dec-2019 10:05:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[10-Dec-2019 13:22:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[11-Dec-2019 03:34:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[11-Dec-2019 09:39:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[11-Dec-2019 14:43:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[11-Dec-2019 15:32:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[11-Dec-2019 16:10:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[12-Dec-2019 14:36:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[15-Dec-2019 00:27:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[15-Dec-2019 05:00:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[19-Dec-2019 23:38:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[21-Dec-2019 01:21:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[02-Jan-2020 14:25:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[06-Jan-2020 03:34:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[07-Jan-2020 17:31:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[07-Jan-2020 20:40:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[16-Jan-2020 00:36:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[22-Jan-2020 10:48:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[22-Jan-2020 10:49:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[23-Jan-2020 09:07:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[23-Jan-2020 14:13:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[23-Jan-2020 14:15:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[23-Jan-2020 21:24:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[25-Jan-2020 21:51:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[26-Jan-2020 05:31:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[27-Jan-2020 08:29:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[27-Jan-2020 18:06:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/src/Renderer/Block.php on line 96
+[27-Jan-2020 20:26:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[29-Jan-2020 04:08:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[01-Feb-2020 04:54:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[02-Feb-2020 08:26:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[03-Feb-2020 13:41:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[07-Feb-2020 18:24:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[09-Feb-2020 02:49:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[09-Feb-2020 13:12:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[13-Feb-2020 08:59:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[13-Feb-2020 11:06:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[13-Feb-2020 16:49:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[14-Feb-2020 02:44:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[15-Feb-2020 11:17:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[19-Feb-2020 08:32:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[23-Feb-2020 02:02:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[23-Feb-2020 02:03:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[24-Feb-2020 08:44:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[25-Feb-2020 17:15:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/src/Renderer.php on line 224
+[03-Mar-2020 10:34:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[06-Mar-2020 10:25:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[09-Mar-2020 00:01:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[09-Mar-2020 00:03:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[09-Mar-2020 00:06:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[09-Mar-2020 00:21:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[11-Mar-2020 00:05:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[11-Mar-2020 00:24:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[15-Mar-2020 04:03:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[23-Mar-2020 09:24:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[24-Mar-2020 05:47:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[26-Mar-2020 08:47:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[28-Mar-2020 00:45:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[28-Mar-2020 03:55:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/src/Css/Style.php on line 850
+[28-Mar-2020 04:31:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[28-Mar-2020 05:11:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[28-Mar-2020 17:17:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[30-Mar-2020 20:51:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[05-Apr-2020 16:39:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[16-Apr-2020 06:55:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4912
+[18-Apr-2020 13:46:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[18-Apr-2020 13:46:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[18-Apr-2020 13:47:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[27-Apr-2020 07:27:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[30-Apr-2020 06:33:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[01-May-2020 13:02:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[04-May-2020 12:40:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[05-May-2020 22:48:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[08-May-2020 03:38:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[09-May-2020 22:48:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[21-May-2020 18:18:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[21-May-2020 19:42:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[21-May-2020 19:45:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[21-May-2020 19:48:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[21-May-2020 19:53:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[21-May-2020 20:02:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[21-May-2020 20:20:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/src/Frame.php on line 675
+[22-May-2020 08:57:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[22-May-2020 11:18:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[25-May-2020 14:46:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[30-May-2020 06:08:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[30-May-2020 06:51:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[01-Jun-2020 08:46:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[04-Jun-2020 14:58:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[06-Jun-2020 03:00:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[17-Jun-2020 07:02:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[17-Jun-2020 07:03:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[17-Jun-2020 07:06:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[18-Jun-2020 06:21:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[19-Jun-2020 14:05:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[19-Jun-2020 14:06:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[19-Jun-2020 14:08:03 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[20-Jun-2020 05:35:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[21-Jun-2020 15:58:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[24-Jun-2020 16:41:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[24-Jun-2020 21:33:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[25-Jun-2020 22:10:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[27-Jun-2020 09:25:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[27-Jun-2020 23:22:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[27-Jun-2020 23:32:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[29-Jun-2020 11:07:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[30-Jun-2020 10:01:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/src/Frame.php on line 507
+[02-Jul-2020 16:55:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[03-Jul-2020 10:57:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[10-Jul-2020 10:47:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[28-Jul-2020 01:14:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[08-Aug-2020 06:31:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[10-Aug-2020 10:52:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[15-Aug-2020 13:01:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[17-Aug-2020 09:35:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[18-Aug-2020 11:15:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[23-Aug-2020 13:26:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[24-Aug-2020 09:44:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[26-Aug-2020 09:04:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[07-Sep-2020 03:22:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[07-Sep-2020 17:25:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[12-Sep-2020 11:46:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[14-Sep-2020 00:07:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[15-Sep-2020 18:39:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[16-Sep-2020 07:29:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[16-Sep-2020 11:40:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/baitsbdc/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[23-Nov-2020 17:43:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[24-Nov-2020 09:10:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[25-Nov-2020 06:17:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home3/baitsbd/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[25-Nov-2020 06:17:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home3/baitsbd/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Nov-2020 23:19:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[01-Dec-2020 12:09:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/src/LineBox.php on line 85
+[02-Dec-2020 02:03:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[08-Dec-2020 18:54:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[09-Dec-2020 11:43:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[09-Dec-2020 12:48:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/src/Css/Style.php on line 2182
+[11-Dec-2020 03:13:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[18-Dec-2020 05:03:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[23-Dec-2020 11:56:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[27-Dec-2020 07:54:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[30-Dec-2020 22:04:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[30-Dec-2020 22:11:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[12-Jan-2021 23:03:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[15-Jan-2021 17:59:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[15-Jan-2021 18:14:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[15-Jan-2021 19:02:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[18-Jan-2021 17:43:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[18-Jan-2021 22:56:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[20-Jan-2021 19:10:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[28-Jan-2021 04:08:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 75
+[31-Jan-2021 04:52:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[01-Feb-2021 15:56:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[04-Feb-2021 21:53:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[12-Feb-2021 18:29:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/src/FrameDecorator/Block.php on line 278
+[16-Feb-2021 04:21:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/src/Positioner/Inline.php on line 54
+[16-Feb-2021 13:35:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[18-Feb-2021 13:26:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[18-Feb-2021 14:41:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[20-Feb-2021 15:44:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[27-Feb-2021 22:48:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[28-Feb-2021 18:00:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4935
+[03-Mar-2021 13:40:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[06-Mar-2021 11:10:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[07-Mar-2021 19:08:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[12-Mar-2021 20:31:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4898
+[14-Mar-2021 18:01:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[15-Mar-2021 00:50:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4912
+[15-Mar-2021 18:44:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[16-Mar-2021 02:43:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4897
+[16-Mar-2021 06:00:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[17-Mar-2021 18:39:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4907
+[19-Mar-2021 03:13:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4896
+[21-Mar-2021 15:48:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4915
+[24-Mar-2021 08:38:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[24-Mar-2021 22:46:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/baitsbd/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4921
+[14-Jul-2021 16:16:54 America/New_York] PHP Warning:  require_once(/home/baitsbd/public_html/public/index.php): failed to open stream: No such file or directory in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:54 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/baitsbd/public_html/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:56 America/New_York] PHP Warning:  require_once(/home/baitsbd/public_html/public/index.php): failed to open stream: No such file or directory in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:56 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/baitsbd/public_html/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:57 America/New_York] PHP Warning:  require_once(/home/baitsbd/public_html/public/index.php): failed to open stream: No such file or directory in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:57 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/baitsbd/public_html/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:59 America/New_York] PHP Warning:  require_once(/home/baitsbd/public_html/public/index.php): failed to open stream: No such file or directory in /home/baitsbd/public_html/server.php on line 21
+[14-Jul-2021 16:16:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/baitsbd/public_html/public/index.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/baitsbd/public_html/server.php on line 21
